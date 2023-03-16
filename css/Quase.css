@@ -52,19 +52,19 @@
     
 }
 
-@media only screen and (max-width: 480px) {
+/*@media only screen and (max-width: 480px) {
     .div1 {
         margin-top: 50px; /* Reduzir ainda mais a margem superior */
-    }
+    /*}
     .img1 {
         height: auto;
         max-width: 100%; /* Definir a largura máxima como 100% para que a imagem se ajuste à largura da tela */
-    }
+   /* }
 
     .botao {
         font-size: 20px; /* Reduzir ainda mais o tamanho da fonte */
-        padding: 3px 8px; /* Reduzir o espaçamento interno */
-    }
+    /*    padding: 3px 8px; /* Reduzir o espaçamento interno */
+   /* }
 }
 
 @media only screen and (min-width: 992px) {
