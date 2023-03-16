@@ -15,7 +15,7 @@
     flex-direction: column;
     align-items:center;
     justify-content: center;
-    margin-top: 150px;
+    margin-top: 80px;
 }
 .img1{
     display: flex;
@@ -32,7 +32,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 80vh;
+    height: 90vh;
     
 }
 
