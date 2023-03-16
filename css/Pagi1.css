@@ -5,7 +5,7 @@
     justify-content: center;
     list-style: none;
     border: none;
-    gap:90px;
+    gap:50px;
     margin-top: 150px;
     
 
@@ -32,7 +32,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 45vh;
+    height: 80vh;
     
 }
 
