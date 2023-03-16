@@ -1,0 +1,79 @@
+.div1{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+     border-style: none;
+    
+
+}
+
+.body1{
+    background-image: url(../images/backcora.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 900px;
+    margin-top: 1000px;
+    
+    
+}
+
+.botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+    padding: 5px 10px;
+    border: 2px solid red;
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 8px;
+    border-style: none;
+    
+
+    
+}
+
+@media only screen and (max-width: 480px) {
+    .body {
+      margin-bottom: 100px;
+      margin-top: 200px;
+    }
+  
+    .botao {
+      font-size: 30px;
+    }
+  }
+
+  @media only screen and (min-width: 992px) {
+        .div1 {
+          margin-top: 500px;
+        }
+      
+        .body {
+          margin-bottom: 0;
+          margin-top: 0;
+        }
+      
+        .botao {
+          font-size: 80px;
+          padding: 10px 20px;
+        }
+      }
+
+
+
+

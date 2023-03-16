@@ -1,0 +1,41 @@
+.div1{
+    display: flex;
+    flex-direction: column; 
+    align-items:center;
+    justify-content: center;
+    margin-top: 100px; 
+    
+}
+
+.img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh; 
+}
+
+
+@media only screen and (max-width: 480px) {
+    .div1 {
+        margin-top: 50px; /* Reduzir ainda mais a margem superior */
+    }
+
+    .img1 {
+        height: auto;
+        max-width: 100%; 
+    }
+
+
+}
+
+@media only screen and (min-width: 992px) {
+    .div1 {
+      margin-top: 500px;
+    }
+  
+    .img1 {
+      height: 800px;
+    }
+  
+  }
