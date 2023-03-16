@@ -22,8 +22,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 900px;
-    margin-top: 1000px;
+    margin-bottom: 400px;
+    margin-top: 500px;
     
     
 }
@@ -34,10 +34,10 @@
     align-items: center;
     flex-direction: column;
     cursor: pointer;
-    padding: 5px 10px;
+    padding: 2px 5px;
     border: 2px solid red;
     color: black;
-    font-size: 60px;
+    font-size: 20px;
     font-weight: bold;
     background-color: red;
     border-radius: 8px;
